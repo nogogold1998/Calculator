@@ -25,7 +25,7 @@ class KeyboardFragment : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        binding.buttonBackspace.setOnLongClickListener {
+       buttonBackspace.setOnLongClickListener {
             mainViewModel.onClear()
             true
         }
