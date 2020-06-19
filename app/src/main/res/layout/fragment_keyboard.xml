@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <variable
+            name="mainViewModel"
+            type="com.example.calculator.MainViewModel" />
+    </data>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:weightSum="5">
+
+
+            <Button
+                android:id="@+id/button7"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(7)}"
+                android:text="@string/seven" />
+
+            <Button
+                android:id="@+id/button8"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(8)}"
+                android:text="@string/eight" />
+
+            <Button
+                android:id="@+id/button9"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(9)}"
+                android:text="@string/nine" />
+
+            <Button
+                android:id="@+id/buttonDiv"
+                style="@style/MyButtonAccent"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickOperator('/')}"
+                android:text="@string/div" />
+
+            <ImageButton
+                android:id="@+id/buttonBackspace"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_margin="4dp"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onBackspace()}"
+                android:backgroundTint="@color/colorAccent"
+                android:contentDescription="@string/backspace"
+                android:foregroundTint="@color/colorPrimary"
+                app:srcCompat="@drawable/ic_outline_backspace_24" />
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:weightSum="5">
+
+            <Button
+                android:id="@+id/button4"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(4)}"
+                android:text="@string/four" />
+
+            <Button
+                android:id="@+id/button5"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(5)}"
+                android:text="@string/five" />
+
+            <Button
+                android:id="@+id/button6"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(6)}"
+                android:text="@string/six" />
+
+            <Button
+                android:id="@+id/buttonTime"
+                style="@style/MyButtonAccent"
+                android:onClick="@{()->mainViewModel.onClickOperator('*')}"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/time" />
+
+            <Button
+                android:id="@+id/buttonOpen"
+                style="@style/MyButtonAccent"
+                android:layout_width="0dp"
+                android:onClick="@{()->mainViewModel.onOpen()}"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/open" />
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:weightSum="5">
+
+            <Button
+                android:id="@+id/button1"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(1)}"
+                android:text="@string/one" />
+
+
+            <Button
+                android:id="@+id/button2"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(2)}"
+                android:text="@string/two" />
+
+            <Button
+                android:id="@+id/button3"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(3)}"
+                android:text="@string/three" />
+
+            <Button
+                android:id="@+id/buttonMinus"
+                style="@style/MyButtonAccent"
+                android:layout_width="0dp"
+                android:onClick="@{()->mainViewModel.onClickOperator('-')}"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/minus" />
+
+            <Button
+                android:id="@+id/buttonClose"
+                style="@style/MyButtonAccent"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:onClick="@{()->mainViewModel.onClose()}"
+                android:layout_weight="1"
+                android:text="@string/close" />
+        </TableRow>
+
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:weightSum="5">
+
+            <Button
+                android:id="@+id/button0"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:onClick="@{()->mainViewModel.onClickNum(0)}"
+                android:text="@string/zero" />
+
+            <Button
+                android:id="@+id/buttonDot"
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/dot" />
+
+            <Button
+                style="@style/MyButton"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:visibility="invisible" />
+
+            <Button
+                android:id="@+id/buttonPlus"
+                style="@style/MyButtonAccent"
+                android:layout_width="0dp"
+                android:onClick="@{()->mainViewModel.onClickOperator('+')}"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/plus" />
+
+            <Button
+                android:id="@+id/buttonEqual"
+                style="@style/MyButtonAccent"
+                android:layout_width="0dp"
+                android:onClick="@{()->mainViewModel.onEqual()}"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/equal" />
+
+        </TableRow>
+
+    </TableLayout>
+</layout>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5edbcf4d-4a69-4878-8b9e-081b28c90a41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="PL2GAR9841013835" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin File" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1dKs69CFzv3jG8JdGd2exblpeyl" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="hmd_global-nokia_6_1-PL2GAR9841013835" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.mycalculator" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AndroidSDK" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/example/mycalculator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SAMPLES/architecture-components-samples/BasicSample" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.mycalculator" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="ScriptEngineManagerTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="PACKAGE_NAME" value="com.example.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.example.calculator.ScriptEngineManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScriptEngineManagerTest.implicit multiple expression" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="PACKAGE_NAME" value="com.example.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.example.calculator.ScriptEngineManagerTest" />
+      <option name="METHOD_NAME" value="implicit multiple expression" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScriptEngineManagerA..." type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.example.calculator.ScriptEngineManagerAndroidTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainViewModelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="PACKAGE_NAME" value="com.example.mycalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mycalculator.MainViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainViewModelTest.parentheses test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="PACKAGE_NAME" value="com.example.mycalculator" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mycalculator.MainViewModelTest" />
+      <option name="METHOD_NAME" value="parentheses test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.ScriptEngineManagerA..." />
+        <item itemvalue="Android JUnit.ScriptEngineManagerTest" />
+        <item itemvalue="Android JUnit.ScriptEngineManagerTest.implicit multiple expression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="184" width="950" height="525" key="#PSD" timestamp="1592213836135">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="320" y="184" width="950" height="525" key="#PSD/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592213836135" />
+    <state x="586" y="168" width="418" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1592213471071">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="586" y="168" width="418" height="557" key="#com.intellij.ide.util.MemberChooser/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592213471071" />
+    <state x="551" y="374" key="#xdebugger.evaluate" timestamp="1592217567658">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="551" y="374" key="#xdebugger.evaluate/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217567658" />
+    <state x="533" y="304" width="524" height="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592217829724">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="533" y="304" width="524" height="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217829724" />
+    <state x="383" y="207" width="824" height="479" key="AndroidCreateResourceFileDialog" timestamp="1592206563814">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="383" y="207" width="824" height="479" key="AndroidCreateResourceFileDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592206563814" />
+    <state x="657" y="265" width="276" height="363" key="AndroidCreateXmlResourceDialog" timestamp="1592219040899">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="657" y="265" width="276" height="363" key="AndroidCreateXmlResourceDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592219040899" />
+    <state x="658" y="217" width="274" height="458" key="AndroidProcessChooserDialog" timestamp="1592217514522">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="658" y="217" width="274" height="458" key="AndroidProcessChooserDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217514522" />
+    <state x="583" y="207" width="424" height="479" key="FileChooserDialogImpl" timestamp="1592215729338">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="583" y="207" width="424" height="479" key="FileChooserDialogImpl/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592215729338" />
+    <state width="1558" height="230" key="GridCell.Tab.0.bottom" timestamp="1592220431802">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.bottom/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592220431802" />
+    <state width="1558" height="230" key="GridCell.Tab.0.center" timestamp="1592220431802">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.center/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592220431802" />
+    <state width="1558" height="230" key="GridCell.Tab.0.left" timestamp="1592220431801">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.left/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592220431801" />
+    <state width="1558" height="230" key="GridCell.Tab.0.right" timestamp="1592220431802">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="230" key="GridCell.Tab.0.right/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592220431802" />
+    <state width="1558" height="285" key="GridCell.Tab.1.bottom" timestamp="1592217631608">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="285" key="GridCell.Tab.1.bottom/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217631608" />
+    <state width="1558" height="285" key="GridCell.Tab.1.center" timestamp="1592217631608">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="285" key="GridCell.Tab.1.center/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217631608" />
+    <state width="1558" height="285" key="GridCell.Tab.1.left" timestamp="1592217631608">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="285" key="GridCell.Tab.1.left/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217631608" />
+    <state width="1558" height="285" key="GridCell.Tab.1.right" timestamp="1592217631608">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="285" key="GridCell.Tab.1.right/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592217631608" />
+    <state x="596" y="227" width="387" height="433" key="chooseDestDirectoryDialog" timestamp="1592209936797">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="596" y="227" width="387" height="433" key="chooseDestDirectoryDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592209936797" />
+    <state x="100" y="99" width="1400" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592216934204">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="100" y="99" width="1400" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592216934204" />
+    <state x="460" y="1096" key="com.intellij.ide.util.TipDialog" timestamp="1592221666820">
+      <screen x="118" y="900" width="1366" height="768" />
+    </state>
+    <state x="460" y="1096" key="com.intellij.ide.util.TipDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592221666820" />
+    <state x="225" y="953" width="1165" height="602" key="dock-window-1" timestamp="1592214920683">
+      <screen x="118" y="900" width="1366" height="768" />
+    </state>
+    <state x="225" y="953" width="1165" height="602" key="dock-window-1/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592214920683" />
+    <state width="525" height="156" key="javadoc.popup.new" timestamp="1592219911140">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="525" height="156" key="javadoc.popup.new/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592219911140" />
+    <state x="567" y="179" width="456" height="535" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1592209936829">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="567" y="179" width="456" height="535" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592209936829" />
+    <state x="544" y="95" width="501" height="702" key="refactoring.ChangeSignatureDialog" timestamp="1592211578954">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="544" y="95" width="501" height="702" key="refactoring.ChangeSignatureDialog/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592211578954" />
+    <state x="464" y="203" key="run.anything.popup" timestamp="1592212079858">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="464" y="203" key="run.anything.popup/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592212079858" />
+    <state x="463" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1592213900907">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="193" width="672" height="678" key="search.everywhere.popup/118.900.1366.768/0.0.1600.900@0.0.1600.900" timestamp="1592213900907" />
+  </component>
+</project>
